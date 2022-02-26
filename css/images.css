@@ -1,0 +1,14 @@
+.main-img {
+    max-width: 100%;
+}
+
+.image {
+    width: 100%;
+    display: block;
+}
+
+/** blog page **/
+.food {
+    height: auto;
+    width: 100%;
+}

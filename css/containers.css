@@ -1,0 +1,33 @@
+.container {
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    max-height: 40.75em;
+}
+
+.wrapper {
+    padding: 0 1em;
+    text-align: center;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 1em;
+}
+
+/** blog page **/
+
+.hero {
+    min-height: 31.25em;
+}
+
+.container-two {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+    padding: 0 1em;
+}
